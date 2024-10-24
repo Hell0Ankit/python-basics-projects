@@ -1,2 +1,13 @@
-# python-basics-projects
-A collection of beginner-friendly Python projects and exercises to learn the fundamentals of Python programming.
+student_name=input('Enter Your Name:')
+father_name=input('Enter Your Father Name:')
+mother_name=input('Enter Your Father Name:')
+student_id=input('Enter Your Name Sudent ID:')
+school_name=input('Enter Your School Name:')
+your_adress=input('Enter Your Home Adress:')
+print('Hi',student_name, "welcome in our student CRM")
+print(student_name, "your details")
+print('father name:', father_name)
+print('mother name:', mother_name)
+print('student ID:', student_id)
+print('school name:', school_name)
+print('adress:', your_adress)
